@@ -31,15 +31,19 @@ A review of the book can be found in [Trends in Ecology and Evolution](https://w
 
 NA Rosenberg, MD Edge (in press). Genetic clusters and the race debates: A perspective from population genetics. To appear in The Race Debates from Metaphysics to Medicine, QNJ Spencer (ed.), Oxford University Press.
 
+MD Edge & JN Matthews (2021). Open practices in our science and our courtrooms. OSF Preprints. [[Preprint](https://osf.io/j6vcu)]
+
+A Harpak & MD Edge (2021). GWAS deems parents guilty by association. Proceedings of the National Academy of Sciences, 118: e2109433118 [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Harpak_Edge2021PNAS.pdf">PDF</a>]
+
+J Kim, MD Edge, A Goldberg, & NA Rosenberg (2021). Skin deep: The decoupling of genetic 	admixture levels from  phenotypes that differed between source populations. American 	Journal of Physical Anthropology, 175:406-421. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Kim_etAl_AJPA_2021.pdf">PDF</a>]
+
 MD Edge & G Coop (2020). Donnelly (1983) and the limits of genetic genealogy. Theoretical Population Biology. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Donnelly (1983) and the limits of genetic genealogy.pdf">PDF</a>]
 
 MD Edge & G Coop (2020). [Attacks on genetic privacy via uploads to genealogical databases. Elife,9,e51810.](https://elifesciences.org/articles/51810) [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Attacks on genetic privacy via uploads to genealogical databases.pdf">PDF</a>]  [[Github](https://github.com/mdedge/IBS_privacy)]
 
 J Kim, MD Edge, A Goldberg, & NA Rosenberg (2019). Assortative mating and the dynamical decoupling of genetic admixture levels from phenotypes that differ between source populations. [[bioRxiv](https://www.biorxiv.org/content/10.1101/773663v2)]
 
-
 MD Edge & G Coop (2019). Reconstructing the history of polygenic scores using coalescent trees. Genetics, 211:235-262 [[bioRxiv](https://www.biorxiv.org/content/10.1101/389221v1)] [<a href="{{ site.url }}{{ site.baseurl }}/pdf/reconstruct.pdf">PDF</a>]  [[Github](https://github.com/mdedge/rhps_coalescent)]
-
 
 J Kim, MD Edge, BF Algee-Hewitt, JZ Li, & NA Rosenberg. (2018). Statistical detection ofrelatives typed with disjoint forensic and biomedical loci. Cell, 175:848-858. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/2.pdf">PDF</a>]
 
