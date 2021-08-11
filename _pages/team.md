@@ -33,9 +33,19 @@ permalink: /team/
 
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/vivian.jpg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Vivian Link</b>,  postdoctoral researcher. Vivian started her postdoc in May 2020. Prior to coming to USC, Vivian earned her PhD in computational biology from the University of Fribourg, Switzerland, under the supervision of Daniel Wegmann. In her PhD, she developed computational tools to study genetic diversity in ancient samples and used them to investigate human history. She is now interested in studying the genetic basis of complex traits using ancestral recombination graphs.
+</div>
+
+
+<br>
+
+
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Obadiah2.1.jpg" class="img-responsive" width="20%" style="float: left" />
 
-<b>Obadiah Mulder</b>, rotation student. Obadiah is a first-year PhD student in the Computational Biology and Biostatistics (CBB) program. Obadiah’s undergraduate degree was in Biology at Green Mountain College, with a focus on Bayesian analytical techniques. He is planning on doing research on biofilm interactions.
+<b>Obadiah Mulder</b>, rotation student. Obadiah is a PhD student in the Computational Biology and Biostatistics (CBB) program. Obadiah’s undergraduate degree was in Biology at Green Mountain College, with a focus on Bayesian analytical techniques. He is working on modeling signaling interactions in bacterial biofilms and on using estimated ancestral recombination graphs to understand the evolution of complex traits. 
 </div>
 
 
@@ -52,7 +62,7 @@ permalink: /team/
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/DandanPeng.jpeg" class="img-responsive" width="20%" style="float: left" />
 
-<b>Dandan Peng</b>, rotation student. Dandan is a first-year Ph.D. student in Computational Biology and Bioinformatics (CBB). She completed a bachelor's degree in plant protection at China Agricultural University and a master's degree at ETH Zurich. She is interested in population stratification in genome-wide association studies (GWAS).  
+<b>Dandan Peng</b>, rotation student. Dandan is a PhD student in Computational Biology and Bioinformatics (CBB). She completed a bachelor's degree in plant protection at China Agricultural University and a master's degree at ETH Zurich. She is interested in population stratification in genome-wide association studies (GWAS), and she is also working on using estimated ancestral recombination graphs to understand complex trait evolution.  
 </div>
 
 <br>
@@ -65,13 +75,6 @@ permalink: /team/
 
 <br>
 
-<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/jiayang.png" class="img-responsive" width="20%" style="float: left" />
-
-<b>Jia Yang</b>, rotation student. Jia is a PhD student in Computational Biology and Bioinformatics (CBB). Before coming to USC, Jia completed her dual bachelor degrees in Computer Science and Financial Engineering at Sichuan University. Jia is interested in developing algorithms in genetic privacy and evolutionary genetics.
-</div>
-
-<br>
 
 
 
