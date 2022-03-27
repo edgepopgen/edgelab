@@ -17,7 +17,7 @@ permalink: /publications/
 
 Code and supplementary material for the book are available on [GitHub](https://github.com/mdedge/stfs)
 
-A review of the book can be found in [Trends in Ecology and Evolution](https://www.sciencedirect.com/science/article/abs/pii/S0169534719302794)
+Reviews of the book can be found in [Trends in Ecology and Evolution](https://www.sciencedirect.com/science/article/abs/pii/S0169534719302794) and [Journal of the Royal Statistical Society, Series A](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssa.12843).
 
 <br>
 
