@@ -13,15 +13,15 @@ permalink: /publications/
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/StatThinking.jpg" class="img-responsive" width="18%" style="float:right; margin-right:5px;"/>
 
-[Statistical Thinking from Scratch](https://global.oup.com/academic/product/statistical-thinking-from-scratch-9780198827634?cc=us&lang=en&), Oxford University Press 2019
+[Statistical Thinking from Scratch](https://global.oup.com/academic/product/statistical-thinking-from-scratch-9780198827634?cc=us&lang=en&), Oxford University Press 2019.
 
-Code and supplementary material for the book are available on [GitHub](https://github.com/mdedge/stfs)
+Code and supplementary material for the book are available on [GitHub](https://github.com/mdedge/stfs).
 
 Reviews of the book can be found in [Trends in Ecology and Evolution](https://www.sciencedirect.com/science/article/abs/pii/S0169534719302794) and [Journal of the Royal Statistical Society, Series A](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssa.12843).
 
 <br>
 
-<b>For an up-to-date list of papers, see [Google Scholar](https://scholar.google.com/citations?user=Vawz3_wAAAAJ&hl=en)</b>
+<b>For an up-to-date list of papers, see [Google Scholar](https://scholar.google.com/citations?user=Vawz3_wAAAAJ&hl=en)</b>.
 
 <br>
 <br>
