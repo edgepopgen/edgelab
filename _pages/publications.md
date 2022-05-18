@@ -31,7 +31,9 @@ Reviews of the book can be found in [Trends in Ecology and Evolution](https://ww
 
 NA Rosenberg, MD Edge (in press). Genetic clusters and the race debates: A perspective from population genetics. To appear in The Race Debates from Metaphysics to Medicine, QNJ Spencer (ed.), Oxford University Press.
 
-MD Edge & JN Matthews (2021). Open practices in our science and our courtrooms. OSF Preprints. [[Preprint](https://osf.io/j6vcu)]
+MD Edge, S Ramachandran, & NA Rosenberg (2022). Celebrating 50 years since Lewontin's apportionment of human diversity. Philosophical Transactions of the Royal Society B, 377: 20200405. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Edge_Ramachandran_Rosenberg_2022.pdf">PDF</a>]
+
+MD Edge & JN Matthews (2022). Open practices in our science and our courtrooms. Trends in Genetics, 38:113-115. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Edge&Matthews_2022.pdf">PDF</a>] [[Preprint](https://osf.io/j6vcu)]
 
 A Harpak & MD Edge (2021). GWAS deems parents guilty by association. Proceedings of the National Academy of Sciences, 118: e2109433118 [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Harpak_Edge2021PNAS.pdf">PDF</a>]
 
