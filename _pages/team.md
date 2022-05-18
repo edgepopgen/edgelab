@@ -41,6 +41,13 @@ permalink: /team/
 
 <br>
 
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Janis.png" class="img-responsive" width="20%" style="float: left" />
+
+<b>Junjian (Janis) Liu</b>, graduate student. Janis is a PhD student in Computational Biology and Bioinformatics (CBB) program. She completed a master’s degree in biostatistics at UNC-Chapel Hill and a bachelor’s degree in pharmacoeconomics at China Pharmaceutical University. She is interested in the statistical analysis of trait differentiation and heritability in admixed populations. She also has an interest in exploring the potential of precision population health.
+</div>
+
+<br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Obadiah2.1.jpg" class="img-responsive" width="20%" style="float: left" />
