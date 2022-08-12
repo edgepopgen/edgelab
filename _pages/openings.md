@@ -33,9 +33,8 @@ You can read about our lab culture and policies [here]({{site.url}}{{site.baseur
 
 <br>
 <br>
-<center><h4><b>Zoom lab meeting in January 2021</b></h4></center>
 <figure>
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/EdgeLab_012521.png" width="80%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/image9.jpeg" width="80%"></center>
 </figure>
 
 <br>
