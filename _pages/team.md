@@ -15,22 +15,15 @@ permalink: /team/
 
 </div>
 
-
-
 <br>
-
-
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/linda.png" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TinaLasisi_pic.jpg" class="img-responsive" width="20%" style="float: left" />
 
-<b>Linda Ding</b>,  graduate student. Linda is a graduate student in Computational Biology and Bioinformatics (CBB). Prior to coming to USC, Linda completed a master’s degree in biostatistics from the University of Michigan and a bachelor’s degree in statistics and psychology from the University of Toronto. Linda is studying statistical methods for understanding the evolution of polygenic traits using inferred ancestral recombination graphs. She also has interests in the genetics of risk for psychiatric conditions.
+<b>Tina Lasisi</b>, postdoctoral researcher. Tina started her postdoc in August 2022. Before this, Tina was a postdoc at Penn State where she also earned her PhD in Biological Anthropology under the supervision of Nina Jablonski and Mark Shriver. During her PhD, Tina developed lab protocols for hair sample preparation as well as an image analysis program for the quantification of hair phenotypes. She is interested in the genetic architecture of complex traits in admixed populations. Tina works jointly with Jazlyn Mooney.
 </div>
 
-
 <br>
-
-
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/vivian.jpg" class="img-responsive" width="20%" style="float: left" />
