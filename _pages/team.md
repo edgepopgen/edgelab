@@ -68,9 +68,9 @@ permalink: /team/
 <br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/judywang.jpg" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/josh.png" class="img-responsive" width="20%" style="float: left" />
 
-<b>Judy Wang</b>, undergraduate.  Judy is an undergraduate student from Tallahassee, Florida majoring in Quantitative Biology and Communication. Judy is interested in evolution and population genetics. She is also interested in studying forensic applications of genetics, such as the CODIS markers and their properties.
+<b>Joshua Schraiber</b>, research scientist. Josh is a computational biologist interested in evolutionary biology and genetics. Prior to coming to USC, Josh did a PhD with Monty Slatkin at UC Berkeley and a postdoc with Josh Akey at the University of Washington. After his postdoc, he was an assistant professor at Temple University and then filled research roles at Ancestry and Illumina. Josh has worked in diverse systems including humans, pigs, and yeast, and at USC, he is pursuing similarly diverse projects exploring the distribution and genetic and phenotypic variation within and between species. Josh works jointly with the lab of Matt Pennell, also in QCB. Outside of his scientific interests, he’s interested in video games, climbing, basketball, death metal, housing policy, and fashion.  
 </div>
 
 <br>
