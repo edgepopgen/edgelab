@@ -29,7 +29,7 @@ Reviews of the book can be found in [Trends in Ecology and Evolution](https://ww
 
 <h3><b>Papers in evolutionary genetics</b></h3>
 
-NA Rosenberg, MD Edge (in press). Genetic clusters and the race debates: A perspective from population genetics. To appear in The Race Debates from Metaphysics to Medicine, QNJ Spencer (ed.), Oxford University Press.
+CB Ogbunugafor* & MD Edge* (2022). Gattaca as a lens on contemporary genetics: marking 25 years into the film's "not-too-distant" future. GENETICS, 222: iyac142. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Ogbunu_Edge_2022.pdf">PDF</a>]
 
 MD Edge, S Ramachandran, & NA Rosenberg (2022). Celebrating 50 years since Lewontin's apportionment of human diversity. Philosophical Transactions of the Royal Society B, 377: 20200405. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Edge_Ramachandran_Rosenberg_2022.pdf">PDF</a>]
 
@@ -45,7 +45,7 @@ MD Edge & G Coop (2020). [Attacks on genetic privacy via uploads to genealogical
 
 J Kim, MD Edge, A Goldberg, & NA Rosenberg (2019). Assortative mating and the dynamical decoupling of genetic admixture levels from phenotypes that differ between source populations. [[bioRxiv](https://www.biorxiv.org/content/10.1101/773663v2)]
 
-MD Edge & G Coop (2019). Reconstructing the history of polygenic scores using coalescent trees. Genetics, 211:235-262 [[bioRxiv](https://www.biorxiv.org/content/10.1101/389221v1)] [<a href="{{ site.url }}{{ site.baseurl }}/pdf/reconstruct.pdf">PDF</a>]  [[Github](https://github.com/mdedge/rhps_coalescent)]
+MD Edge & G Coop (2019). Reconstructing the history of polygenic scores using coalescent trees. GENETICS, 211:235-262 [[bioRxiv](https://www.biorxiv.org/content/10.1101/389221v1)] [<a href="{{ site.url }}{{ site.baseurl }}/pdf/reconstruct.pdf">PDF</a>]  [[Github](https://github.com/mdedge/rhps_coalescent)]
 
 J Kim, MD Edge, BF Algee-Hewitt, JZ Li, & NA Rosenberg. (2018). Statistical detection ofrelatives typed with disjoint forensic and biomedical loci. Cell, 175:848-858. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/2.pdf">PDF</a>]
 
@@ -79,7 +79,7 @@ MD Edge, P Goroochurn, NA Rosenberg (2013). Windfalls and pitfalls: Insights fro
 
  
 
-M Jakobsson, MD Edge, NA Rosenberg (2013). The relationship between F[ST] and the frequency of the most frequent allele. Genetics, 193: 515-528. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/12.pdf">PDF</a>]
+M Jakobsson, MD Edge, NA Rosenberg (2013). The relationship between F[ST] and the frequency of the most frequent allele. GENETICS, 193: 515-528. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/12.pdf">PDF</a>]
 
 
 <br>
