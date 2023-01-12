@@ -52,6 +52,14 @@ permalink: /team/
 <br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/feriel.jpeg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Feriel Ouerghi</b>, rotation student. Feriel is a first-year PhD student in the Computational Biology and Biomedical Informatics (CBB) program. She graduated from Amherst College with degrees in Computer Science and Sexuality, Women's and Gender Studies. Before starting her graduate degree, she worked in the Ishizuka Lab at the Yale Cancer Center where she studied the relationship between interferon signaling and immunotherapy responses. She is now interested in studying how to preserve data privacy in forensic genetic investigations. 
+</div>
+
+<br>
+
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/sanjanapaye.jpg" class="img-responsive" width="20%" style="float: left" />
 
 <b>Sanjana Paye</b>, undergraduate. Sanjana is an undergraduate (class of 2023) majoring in biochemistry and minoring in health care studies and computer programming. Sanjana is from San Diego, America's Finest City. She is interested in medicine and wants to explore evolutionary genetics in relation to health and disease.  
