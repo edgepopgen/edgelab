@@ -54,7 +54,7 @@ permalink: /team/
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/feriel.jpeg" class="img-responsive" width="20%" style="float: left" />
 
-<b>Feriel Ouerghi</b>, rotation student. Feriel is a first-year PhD student in the Computational Biology and Biomedical Informatics (CBB) program. She graduated from Amherst College with degrees in Computer Science and Sexuality, Women's and Gender Studies. Before starting her graduate degree, she worked in the Ishizuka Lab at the Yale Cancer Center where she studied the relationship between interferon signaling and immunotherapy responses. She is now interested in studying how to preserve data privacy in forensic genetic investigations. 
+<b>Feriel Ouerghi</b>, rotation student. Feriel is a first-year PhD student in the Computational Biology and Biomedical Informatics (CBB) program. She graduated from Amherst College with degrees in Computer Science and Sexuality, Women's and Gender Studies. Before starting her graduate degree, she worked in the Ishizuka Lab at the Yale Cancer Center where she studied the relationship between interferon signaling and immunotherapy responses. She is now interested in studying how to preserve data privacy in forensic genetics. 
 </div>
 
 <br>
