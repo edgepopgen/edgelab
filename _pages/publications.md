@@ -29,6 +29,12 @@ Reviews of the book can be found in [Trends in Ecology and Evolution](https://ww
 
 <h3><b>Papers in evolutionary genetics</b></h3>
 
+V Link, JG Schraiber, C Fan, B Dinh, N Mancuso, CWK Chiang, MD Edge (2023). Tree-based QTL mapping with expected local genetic relatedness matrices. bioRxiv, doi: 10.1101/2023.04.07.536093.
+
+V Link*, YJA Zavaleta, RJ Reyes, L Ding, J Wang, RV Rohlfs, MD Edge (2023). Microsatellites used in forensics are located in regions unusually rich in trait-associated variants. bioRxiv, doi: 10.1101/2023.03.07.531629.
+
+C Zhu, MJ Ming, JM Cole, MD Edge, M Kirkpatrick, & A Harpak (2023). Amplification is the primary mode of gene-by-sex interaction in complex human traits. Cell Genomics, 6;3(5):100297. doi: 10.1016/j.xgen.2023.100297. 
+
 CB Ogbunugafor* & MD Edge* (2022). Gattaca as a lens on contemporary genetics: marking 25 years into the film's "not-too-distant" future. GENETICS, 222: iyac142. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Ogbunu_Edge_2022.pdf">PDF</a>]
 
 MD Edge, S Ramachandran, & NA Rosenberg (2022). Celebrating 50 years since Lewontin's apportionment of human diversity. Philosophical Transactions of the Royal Society B, 377: 20200405. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Edge_Ramachandran_Rosenberg_2022.pdf">PDF</a>]
