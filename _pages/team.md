@@ -15,13 +15,6 @@ permalink: /team/
 
 </div>
 
-<br>
-
-<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/TinaLasisi_pic.jpg" class="img-responsive" width="20%" style="float: left" />
-
-<b>Tina Lasisi</b>, postdoctoral researcher. Tina started her postdoc in August 2022. Before this, Tina was a postdoc at Penn State where she also earned her PhD in Biological Anthropology under the supervision of Nina Jablonski and Mark Shriver. During her PhD, Tina developed lab protocols for hair sample preparation as well as an image analysis program for the quantification of hair phenotypes. She is interested in the genetic architecture of complex traits in admixed populations. Tina works jointly with Jazlyn Mooney.
-</div>
 
 <br>
 
@@ -54,15 +47,7 @@ permalink: /team/
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/feriel.jpeg" class="img-responsive" width="20%" style="float: left" />
 
-<b>Feriel Ouerghi</b>, rotation student. Feriel is a first-year PhD student in the Computational Biology and Biomedical Informatics (CBB) program. She graduated from Amherst College with degrees in Computer Science and Sexuality, Women's and Gender Studies. Before starting her graduate degree, she worked in the Ishizuka Lab at the Yale Cancer Center where she studied the relationship between interferon signaling and immunotherapy responses. She is now interested in studying how to preserve data privacy in forensic genetics. 
-</div>
-
-<br>
-
-<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sanjanapaye.jpg" class="img-responsive" width="20%" style="float: left" />
-
-<b>Sanjana Paye</b>, undergraduate. Sanjana is an undergraduate (class of 2023) majoring in biochemistry and minoring in health care studies and computer programming. Sanjana is from San Diego, America's Finest City. She is interested in medicine and wants to explore evolutionary genetics in relation to health and disease.  
+<b>Feriel Ouerghi</b>, PhD student. Feriel is a PhD student in the Computational Biology and Biomedical Informatics (CBB) program. She graduated from Amherst College with degrees in Computer Science and Sexuality, Women's and Gender Studies. Before starting her graduate degree, she worked in the Ishizuka Lab at the Yale Cancer Center where she studied the relationship between interferon signaling and immunotherapy responses. She is now interested in studying how to preserve data privacy in forensic genetics. 
 </div>
 
 <br>
@@ -84,8 +69,22 @@ permalink: /team/
 <br>
 
 
+<b>Alumni</b>
+<br>
+
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/TinaLasisi_pic.jpg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Tina Lasisi</b>, postdoctoral researcher. Tina started her postdoc, joint with Jazlyn Mooney, in August 2022. Before that, Tina was a postdoc at Penn State where she also earned her PhD in Biological Anthropology under the supervision of Nina Jablonski and Mark Shriver. In the lab, she worked on the population genetics of investigative genetic genealogy. She finished her postdoc in 2023 and is now on the faculty of the University of Michigan, Department of Anthropology.
+</div>
 
 
+<br>
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sanjanapaye.jpg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Sanjana Paye</b>, undergraduate. Sanjana worked in the lab beginning in her sophomore year and majored in quantitative biology. In the lab, she worked on understanding implications for statistical genetics of some mathematical bounds on population-genetic statistics. After graduating in 2023, she enrolled as an MD-PhD student at the University of Michigan.
+</div>
 
  <h3 style="text-align: end; margin-right:20px;">[Join the lab >> ]({{ site.url }}{{ site.baseurl }}/vacancies)</h3>
 
