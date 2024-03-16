@@ -67,8 +67,7 @@ MD Edge, BFB Algee-Hewitt, TJ Pemberton, JZ Li, NA Rosenberg (2017). Linkage dis
 JTL Kang, A Goldberg, MD Edge, DM Behar, NA Rosenberg (2016). Consanguinity rates predict long runs of homozygosity in Jewish populations. Human Heredity, 82, 87-102. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/4.pdf">PDF</a>]
 
 
-
-BFB Algee-Hewitt*, MD Edge*, J Kim, JZ Li, NA Rosenberg (2016). Individual identifiability predicts population identifiability in forensic microsatellite markers. Current Biology, 26: 935-942. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/5.pdf">PDF</a>] [<a href="{{ site.url }}{{ site.baseurl }}/pdf/6.pdf">supplement</a>]
+BFB Algee-Hewitt\*, MD Edge\*, J Kim, JZ Li, NA Rosenberg (2016). Individual identifiability predicts population identifiability in forensic microsatellite markers. Current Biology, 26: 935-942. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/5.pdf">PDF</a>] [<a href="{{ site.url }}{{ site.baseurl }}/pdf/6.pdf">supplement</a>]
 
 
 MD Edge, NA Rosenberg (2015). A General Model of the Relationship Between the Apportionment of Human Genetic Diversity and the Apportionment of Human Phenotypic Diversity. Human Biology, 87: 313-337. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/7.pdf">PDF</a>]
