@@ -29,11 +29,17 @@ Reviews of the book can be found in [Trends in Ecology and Evolution](https://ww
 
 <h3><b>Papers in evolutionary genetics</b></h3>
 
-V Link, JG Schraiber, C Fan, B Dinh, N Mancuso, CWK Chiang, MD Edge (2023). Tree-based QTL mapping with expected local genetic relatedness matrices. bioRxiv, doi: 10.1101/2023.04.07.536093.
+JG Schraiber, MD Edge*, M Pennell* (2024). Unifying approaches from statistical genetics and phylogenetics for mapping phenotypes in structured populations. bioRxiv, doi: 10.1101/2024.02.10.579721.
 
-V Link*, YJA Zavaleta, RJ Reyes, L Ding, J Wang, RV Rohlfs, MD Edge (2023). Microsatellites used in forensics are located in regions unusually rich in trait-associated variants. bioRxiv, doi: 10.1101/2023.03.07.531629.
+JG Schraiber, MD Edge (2024). Heritability within groups is uninformative about differences among groups: cases from behavioral, evolutionary, and statistical genetics. Proceedings of the National Academy of Sciences, 121;12:e2319496121. doi: 10.1073/pnas.231949612 [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Schraiber_Edge_PNAS_2024.pdf">PDF</a>]
 
-C Zhu, MJ Ming, JM Cole, MD Edge, M Kirkpatrick, & A Harpak (2023). Amplification is the primary mode of gene-by-sex interaction in complex human traits. Cell Genomics, 6;3(5):100297. doi: 10.1016/j.xgen.2023.100297. 
+V Link, JG Schraiber, C Fan, B Dinh, N Mancuso, CWK Chiang, MD Edge (2023). Tree-based QTL mapping with expected local genetic relatedness matrices. American Journal of Human Genetics, 110;12:2077-2091. doi: 10.1016/j.ajhg.2023.10.017 [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Link_Schraiber_etal_AJHG_2023.pdf">PDF</a>]
+bioRxiv version doi: 10.1101/2023.04.07.536093.
+
+V Link*, YJA Zavaleta*, RJ Reyes, L Ding, J Wang, RV Rohlfs, MD Edge (2023). Microsatellites used in forensics are located in regions unusually rich in trait-associated variants. iScience, 26;10:107992. doi: 10.1016/j.isci.2023.107992 [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Link_Zavaleta_etal_2023.pdf">PDF</a>]
+bioRxiv doi: 10.1101/2023.03.07.531629.
+
+C Zhu, MJ Ming, JM Cole, MD Edge, M Kirkpatrick, & A Harpak (2023). Amplification is the primary mode of gene-by-sex interaction in complex human traits. Cell Genomics, 6;3(5):100297. doi: 10.1016/j.xgen.2023.100297. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/ZhuEtAl2023.pdf">PDF</a>]
 
 CB Ogbunugafor* & MD Edge* (2022). Gattaca as a lens on contemporary genetics: marking 25 years into the film's "not-too-distant" future. GENETICS, 222: iyac142. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Ogbunu_Edge_2022.pdf">PDF</a>]
 
