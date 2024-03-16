@@ -29,7 +29,7 @@ Reviews of the book can be found in [Trends in Ecology and Evolution](https://ww
 
 <h3><b>Papers in evolutionary genetics</b></h3>
 
-JG Schraiber, MD Edge*, & M Pennell* (2024). Unifying approaches from statistical genetics and phylogenetics for mapping phenotypes in structured populations. bioRxiv, doi: 10.1101/2024.02.10.579721.
+JG Schraiber, MD Edge\*, & M Pennell\* (2024). Unifying approaches from statistical genetics and phylogenetics for mapping phenotypes in structured populations. bioRxiv, doi: 10.1101/2024.02.10.579721.
 
 JG Schraiber & MD Edge (2024). Heritability within groups is uninformative about differences among groups: cases from behavioral, evolutionary, and statistical genetics. Proceedings of the National Academy of Sciences, 121;12:e2319496121. doi: 10.1073/pnas.231949612 [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Schraiber_Edge_PNAS_2024.pdf">PDF</a>]
 
