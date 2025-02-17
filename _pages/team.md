@@ -16,13 +16,6 @@ permalink: /team/
 </div>
 
 
-<br>
-
-<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/vivian.jpg" class="img-responsive" width="20%" style="float: left" />
-
-<b>Vivian Link</b>,  postdoctoral researcher. Vivian started her postdoc in May 2020. Prior to coming to USC, Vivian earned her PhD in computational biology from the University of Fribourg, Switzerland, under the supervision of Daniel Wegmann. In her PhD, she developed computational tools to study genetic diversity in ancient samples and used them to investigate human history. She is now interested in studying the genetic basis of complex traits using ancestral recombination graphs.
-</div>
 
 
 <br>
@@ -53,6 +46,15 @@ permalink: /team/
 <br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/RoshniPatel.png" class="img-responsive" width="20%" style="float: left" />
+
+<b>Roshni Patel</b>, postdoctoral researcher. Roshni began her postdoctoral work in summer 2024 after finishing her PhD in Genetics at Stanford University under the supervision of Jonathan Pritchard. In her PhD, Roshni worked at the intersection of statistical and population genetics, devising approaches to identify genetic interactions in admixed populations and to identify the action of natural selection on complex traits using GWAS data. In the Edge lab, Roshni is leading a collaboration with Matt Pennell aimed at using methods from phylogenetics to control for genetic correlations in epidemiological studies.
+</div>
+
+
+<br> 
+
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/DandanPeng.jpeg" class="img-responsive" width="20%" style="float: left" />
 
 <b>Dandan Peng</b>, graduate student. Dandan is a PhD student in Computational Biology and Bioinformatics (CBB). She completed a bachelor's degree in plant protection at China Agricultural University and a master's degree at ETH Zurich. She is interested in population stratification in genome-wide association studies (GWAS), and she is also working on using estimated ancestral recombination graphs to understand complex trait evolution.  
@@ -76,6 +78,15 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/TinaLasisi_pic.jpg" class="img-responsive" width="20%" style="float: left" />
 
 <b>Tina Lasisi</b>, postdoctoral researcher. Tina started her postdoc, joint with Jazlyn Mooney, in August 2022. Before that, Tina was a postdoc at Penn State where she also earned her PhD in Biological Anthropology under the supervision of Nina Jablonski and Mark Shriver. In the lab, she worked on the population genetics of investigative genetic genealogy. She finished her postdoc in 2023 and is now on the faculty of the University of Michigan, Department of Anthropology.
+</div>
+
+
+<br>
+
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/vivian.jpg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Vivian Link</b>,  postdoctoral researcher. Vivian started her postdoc in May 2020. Prior to coming to USC, Vivian earned her PhD in computational biology from the University of Fribourg, Switzerland, under the supervision of Daniel Wegmann. In her PhD, she developed computational tools to study genetic diversity in ancient samples and used them to investigate human history. In the Edge lab, she developed a method to study genetic basis of complex traits using ancestral recombination graphs, and she examined the proximity of genetic markers used in forensics to genetic loci known to be associated with traits or disease. On completing her postdoc in 2024, she joined Cardio-CARE Davos as a bioinformatician.
 </div>
 
 
