@@ -15,7 +15,9 @@ Lab members use mathematical modeling, computational approaches, statistical met
 
 One major interest of the lab is the evolution of complex traits---traits that are influenced by many genes, the environment, and their interaction. We consider the role of evolutionary-genetic forces in shaping trait variation and in creating the genotype--phenotype associations detected in genome-wide association studies (GWAS). One goal of this research is to improve methods to detect and interpret trait-associated genetic variation.
 
-We are also interested in intersections of population genetics with questions of broader societal importance, such as genetic privacy and forensic genetics. We collaborate and consult with experts in other fields to pursue these questions, including legal experts, philosophers, and social scientists.
+We are also interested in intersections of population genetics with questions such as genetic privacy and forensic genetics.
+
+Some work in the lab does not naturally fit into one of these broad themes and is driven by the specific interests of lab members or our collaborators.
 
 <br>
 
