@@ -24,8 +24,6 @@ Reviews of the book can be found in [Trends in Ecology and Evolution](https://ww
 <b>For an up-to-date list of papers, see [Google Scholar](https://scholar.google.com/citations?user=Vawz3_wAAAAJ&hl=en)</b>.
 
 <br>
-<br>
-<br>
 
 <h3><b>Papers in evolutionary genetics</b></h3>
 
