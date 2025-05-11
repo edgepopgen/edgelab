@@ -31,13 +31,13 @@ Reviews of the book can be found in [Trends in Ecology and Evolution](https://ww
 
 F Ouerghi, DE Krane, & MD Edge (in press). On likelihood ratios from low-coverage sequencing. Forensic Science International: Genetics. (preprint available on bioRxiv).
 
-SM Paye & MD Edge (in press). Mathematical bounds on r^2 and the effect size in case-control genome-wide association studies. Theoretical Population Biology. (preprint available on bioRxiv).
+SM Paye & MD Edge (in press). Mathematical bounds on $r^2$ and the effect size in case-control genome-wide association studies. Theoretical Population Biology. (preprint available on bioRxiv).
 
-J Liu & MD Edge (2025). Error rates in $Q_{ST}$-$F_{ST}$ comparisons depend on genetic architecture and estimation procedures. Genetics, iyaf034. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Liu_Genetics_2025.pdf">PDF</a>]
+J Liu & MD Edge (2025). Error rates in $Q_{ST}-F_{ST}$ comparisons depend on genetic architecture and estimation procedures. Genetics, iyaf034. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Liu_Genetics_2025.pdf">PDF</a>]
 
 D Peng, O Mulder, & MD Edge (2025). Evaluating ARG-estimation methods in the context of estimating population-mean polygenic score histories. Genetics, iyaf033. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Peng_Genetics_2025.pdf">PDF</a>]
 
-C Fan, JL Cahoon, BL Dinh, D Ortega-Del Vecchyo, C Huber, MD Edge, N Mancuso, & CWK 	Chiang (2025). A likelihood-based framework for demographic inference from 	genealogical trees. Nature Genetics, 57, 865–874. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Fan_NatGen_2025.pdf">PDF</a>]
+C Fan, JL Cahoon, BL Dinh, D Ortega-Del Vecchyo, C Huber, MD Edge, N Mancuso, & CWK Chiang (2025). A likelihood-based framework for demographic inference from 	genealogical trees. Nature Genetics, 57, 865–874. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Fan_NatGen_2025.pdf">PDF</a>]
 
 JG Schraiber, MD Edge\*, & M Pennell\* (2024). Unifying approaches from statistical genetics and phylogenetics for mapping phenotypes in structured populations. PLoS Biology, 22(10): e3002847. doi: 10.1371/journal.pbio.3002847. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Schraiber_PLoSBio_2024.pdf">PDF</a>]
 
