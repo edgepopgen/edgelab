@@ -34,7 +34,7 @@ You can read about our lab culture and policies [here]({{site.url}}{{site.baseur
 <br>
 <br>
 <figure>
-<center><img src="{{ site.url }}{{ site.baseurl }}/images/image9.jpeg" width="80%"></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/images/Edgelab_0624.jpeg" width="80%"></center>
 </figure>
 
 <br>
