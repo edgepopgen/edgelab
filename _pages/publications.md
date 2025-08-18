@@ -27,6 +27,8 @@ Reviews of the book can be found in [Trends in Ecology and Evolution](https://ww
 
 <h3><b>Papers in evolutionary genetics</b></h3>
 
+JG Schraiber, JP Spence, & MD Edge (in press) Estimation of demography and mutation rates from one million haploid genomes. American Journal of Human Genetics. (preprint available on bioRxiv).
+
 F Ouerghi, DE Krane, & MD Edge (in press). On likelihood ratios from low-coverage sequencing. Forensic Science International: Genetics. (preprint available on bioRxiv).
 
 SM Paye & MD Edge (in press). Mathematical bounds on $r^2$ and the effect size in case-control genome-wide association studies. Theoretical Population Biology. (preprint available on bioRxiv).
