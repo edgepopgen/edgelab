@@ -11,7 +11,7 @@ permalink: /team/
 
 <div class="col-sm-12 clearfix" style="margin-bottom:70px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/edge.jpg" class="img-responsive" width="20%" style="float: left" />
-<b>Michael "Doc" Edge</b>,  principal investigator (email: edgem [at] usc [dot] edu).  Doc is an assistant professor in the Department of Quantitative and Computational Biology at USC. His research group develops statistical methods and mathematical models in evolutionary genetics, with a particular focus on the intersections of evolutionary genetics with medical and forensic applications. Doc’s PhD in Biology is from Stanford University, where he was advised by Noah Rosenberg. He did postdoctoral research at the University of California, Davis, with Graham Coop. Doc also holds master’s degrees in statistics and psychology from UC Berkeley and a bachelor’s degree in human biology from Stanford University. Doc wrote a coursebook in statistics for advanced undergraduates and beginning graduate students, Statistical Thinking from Scratch, published by Oxford University Press.
+<b>Michael "Doc" Edge</b>,  principal investigator (email: edgem [at] usc [dot] edu).  Doc is an Associate Professor in the Department of Quantitative and Computational Biology at USC. His research group develops statistical methods and mathematical models in evolutionary genetics, with a particular focus on the intersections of evolutionary genetics with medical and forensic applications. Doc’s PhD in Biology is from Stanford University, where he was advised by Noah Rosenberg. He did postdoctoral research at the University of California, Davis, with Graham Coop. Doc also holds master’s degrees in statistics and psychology from UC Berkeley and a bachelor’s degree in human biology from Stanford University. Doc wrote a coursebook in statistics for advanced undergraduates and beginning graduate students, Statistical Thinking from Scratch, published by Oxford University Press.
 
 </div>
 
@@ -43,24 +43,10 @@ permalink: /team/
 <b>Feriel Ouerghi</b>, PhD student. Feriel is a PhD student in the Computational Biology and Biomedical Informatics (CBB) program. She graduated from Amherst College with degrees in Computer Science and Sexuality, Women's and Gender Studies. Before starting her graduate degree, she worked in the Ishizuka Lab at the Yale Cancer Center where she studied the relationship between interferon signaling and immunotherapy responses. She is now interested in studying how to preserve data privacy in forensic genetics. 
 </div>
 
-<br>
-
-<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/RoshniPatel.png" class="img-responsive" width="20%" style="float: left" />
-
-<b>Roshni Patel</b>, postdoctoral researcher. Roshni began her postdoctoral work in summer 2024 after finishing her PhD in Genetics at Stanford University under the supervision of Jonathan Pritchard. In her PhD, Roshni worked at the intersection of statistical and population genetics, devising approaches to identify genetic interactions in admixed populations and to identify the action of natural selection on complex traits using GWAS data. In the Edge lab, Roshni is leading a collaboration with Matt Pennell aimed at using methods from phylogenetics to control for genetic correlations in epidemiological studies.
-</div>
 
 
 <br> 
 
-<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/DandanPeng.jpeg" class="img-responsive" width="20%" style="float: left" />
-
-<b>Dandan Peng</b>, graduate student. Dandan is a PhD student in Computational Biology and Bioinformatics (CBB). She completed a bachelor's degree in plant protection at China Agricultural University and a master's degree at ETH Zurich. She is interested in population stratification in genome-wide association studies (GWAS), and she is also working on using estimated ancestral recombination graphs to understand complex trait evolution.  
-</div>
-
-<br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/josh.png" class="img-responsive" width="20%" style="float: left" />
@@ -91,11 +77,36 @@ permalink: /team/
 
 
 <br>
+
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/RoshniPatel.png" class="img-responsive" width="20%" style="float: left" />
+
+<b>Roshni Patel</b>, postdoctoral researcher. Roshni began her postdoctoral work in summer 2024 after finishing her PhD in Genetics at Stanford University under the supervision of Jonathan Pritchard. In her PhD, Roshni worked at the intersection of statistical and population genetics, devising approaches to identify genetic interactions in admixed populations and to identify the action of natural selection on complex traits using GWAS data. In the Edge lab, Roshni led a collaboration with Matt Pennell aimed at using methods from phylogenetics to control for genetic correlations in epidemiological studies. She left to start a position as assistant professor of data science at the University of Oregon in 2025.
+</div>
+
+<br>
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/DandanPeng.jpeg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Dandan Peng</b>, graduate student. Dandan was a PhD student in Computational Biology and Bioinformatics (CBB) starting in 2020. She completed a bachelor's degree in plant protection at China Agricultural University and a master's degree at ETH Zurich. In the lab, she worked on population stratification in genome-wide association studies (GWAS) and on using estimated ancestral recombination graphs to understand complex trait evolution. After graduating, she left the lab to start a postdoctoral position with Amy Goldberg at UCLA. 
+</div>
+
+
+
+<br>
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/sanjanapaye.jpg" class="img-responsive" width="20%" style="float: left" />
 
 <b>Sanjana Paye</b>, undergraduate. Sanjana worked in the lab beginning in her sophomore year and majored in quantitative biology. In the lab, she worked on understanding implications for statistical genetics of some mathematical bounds on population-genetic statistics. After graduating in 2023, she enrolled as an MD-PhD student at the University of Michigan.
 </div>
+
+<br>
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/LuciaZhang.jpg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Lucia Zhang</b>, undergraduate. Lucia worked in the lab beginning in her freshman year and majored in quantitative biology. In the lab, she worked on several projects in forensic genetics. After graduating in 2026, she enrolled in law school at Yale.
+</div>
+
 
  <h3 style="text-align: end; margin-right:20px;">[Join the lab >> ]({{ site.url }}{{ site.baseurl }}/vacancies)</h3>
 
