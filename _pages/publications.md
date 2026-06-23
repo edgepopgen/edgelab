@@ -27,17 +27,21 @@ Reviews of the book can be found in [Trends in Ecology and Evolution](https://ww
 
 <h3><b>Papers in evolutionary genetics</b></h3>
 
-JG Schraiber, JP Spence, & MD Edge (in press) Estimation of demography and mutation rates from one million haploid genomes. American Journal of Human Genetics. (preprint available on bioRxiv).
+RA Patel, JG Schraiber, M Pennell, MD Edge (2026). Observational epidemiological studies can mitigate genetic confounding with a genetic relatedness matrix. Proceedings of the National Academy of Sciences, 123, e2533909123. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Patel_PNAS_2026.pdf">PDF</a>]
 
-F Ouerghi, DE Krane, & MD Edge (in press). On likelihood ratios from low-coverage sequencing. Forensic Science International: Genetics. (preprint available on bioRxiv).
+OJ Mulder, M Peters Kostman, A Almodaimegh, MD Edge\*, JW Larkin\* (2025). An agent-based model of metabolic signaling oscillations in Bacillus subtilis biofilms. PLoS Computational Biology, 21, e1013746. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Mulder_PLoSCompBio_2025.pdf">PDF</a>]
 
-SM Paye & MD Edge (in press). Mathematical bounds on $r^2$ and the effect size in case-control genome-wide association studies. Theoretical Population Biology. (preprint available on bioRxiv).
+JG Schraiber, JP Spence, & MD Edge (2025). Estimation of demography and mutation rates from one million haploid genomes. American Journal of Human Genetics, 112, 2152-2166. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Schraiber_AJHG_2025.pdf">PDF</a>]
+
+F Ouerghi, DE Krane, & MD Edge (2025). On likelihood ratios from low-coverage sequencing. Forensic Science International: Genetics, 79, 103302. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Ouerghi_FSIG_2025.pdf">PDF</a>]
+
+SM Paye & MD Edge (2025). Mathematical bounds on $r^2$ and the effect size in case-control genome-wide association studies. Theoretical Population Biology, 164, 1-11. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Paye_TPB_2025.pdf">PDF</a>]
 
 J Liu & MD Edge (2025). Error rates in $Q_{ST}-F_{ST}$ comparisons depend on genetic architecture and estimation procedures. Genetics, iyaf034. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Liu_Genetics_2025.pdf">PDF</a>]
 
 D Peng, O Mulder, & MD Edge (2025). Evaluating ARG-estimation methods in the context of estimating population-mean polygenic score histories. Genetics, iyaf033. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Peng_Genetics_2025.pdf">PDF</a>]
 
-C Fan, JL Cahoon, BL Dinh, D Ortega-Del Vecchyo, C Huber, MD Edge, N Mancuso, & CWK Chiang (2025). A likelihood-based framework for demographic inference from 	genealogical trees. Nature Genetics, 57, 865–874. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Fan_NatGen_2025.pdf">PDF</a>]
+C Fan, JL Cahoon, BL Dinh, D Ortega-Del Vecchyo, C Huber, MD Edge, N Mancuso, & CWK Chiang (2025). A likelihood-based framework for demographic inference from genealogical trees. Nature Genetics, 57, 865–874. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Fan_NatGen_2025.pdf">PDF</a>]
 
 JG Schraiber, MD Edge\*, & M Pennell\* (2024). Unifying approaches from statistical genetics and phylogenetics for mapping phenotypes in structured populations. PLoS Biology, 22(10): e3002847. doi: 10.1371/journal.pbio.3002847. [<a href="{{ site.url }}{{ site.baseurl }}/pdf/Schraiber_PLoSBio_2024.pdf">PDF</a>]
 
